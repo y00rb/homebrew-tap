@@ -1,6 +1,8 @@
-# Homebrew tap for ruby-build
+# Homebrew tap for openssl
 
-## Installing Ruby 2.3 or older on macOS
+## mysql postgresql ... are dependencies with openssl in old version
 
-1. `brew install rbenv/tap/openssl@1.0`
-2. `RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.0)" rbenv install 2.3.8`
+## just for me ... need 1.0.2r
+
+1. `brew install y00rb/tap/openssl@1.0.2`
+2. ``

@@ -4,5 +4,5 @@
 
 ## just for me ... need 1.0.2r
 
-1. `brew install y00rb/tap/openssl@1.0.2`
-2. ``
+1. `brew install y00rb/tap/openssl`
+2. `brew switch openssl 1.0.2r`
